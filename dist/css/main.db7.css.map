@@ -1,0 +1,1 @@
+{"version":3,"file":"./css/main.db7.css","mappings":"AAAA,KACE,0DAA2C","sources":["webpack://webpack_template/./src/sass/main.sass"],"sourcesContent":["body {\n  background: #009688 url(../images/demo.jpg); }\n\n"],"names":[],"sourceRoot":""}
